@@ -1,0 +1,16 @@
+.justify-content-end{
+    float: right;
+}
+.search{       
+    background: url(https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/165053940_197149755181859_8166334174403855475_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=aee45a&_nc_ohc=2lr2hQVcbUEAX8XY6oK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=44f20ac1138ea1a39b62e2f403aa30dc&oe=6172AEAA)no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    text-align: center;
+    height: 350px;
+}
+.card {
+    
+}
+.card-body{
+    float: left;
+}
